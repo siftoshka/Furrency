@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Furrency</string>
+    <string name="welcome">Welcome to Furrency!</string>
+    <string name="go">Let\'s go!</string>
+    <string name="settings">Settings</string>
+    <string name="about_menu">About</string>
+    <string name="about">Your budget in Food. Look at how many pizzas, burgers or any other food you can buy with your budget.</string>
+    <string name="rate_app">Rate App</string>
+    <string name="app_version">App Version:</string>
+    <string name="settings_menu">Settings</string>
+    <string name="contact_us_menu">Contact Me</string>
+    <string name="credits_menu">Credits</string>
+    <string name="info_menu">Info</string>
+    <string name="dark_mode_text">Dark Mode</string>
+    <string name="currency_text">Select Currency</string>
+    <string name="food_text">Select Food</string>
+    <string name="label_name">Type your budget</string>
+</resources>
